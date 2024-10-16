@@ -20,5 +20,5 @@ testObj = test()
 testObj.task()
 testObj.print(100)
 
-o1 = Absclass
+o1 = Absclass()
 o1.task()
